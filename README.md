@@ -1,6 +1,6 @@
 # Project Name
 
-A business review aggregator web app. Users have the ability to reserve a table at restaurants, browse pictures of the business, and leave a review. 
+A business review aggregator web app. Users have the ability to reserve a table at restaurants, browse pictures of the business, and leave a review. This repo is for the image carousel at the top of the page. Users and scroll through and when clicking on a specific image, a modal appears with an enlarged version of the picture. 
 
 ## Table of Contents
 

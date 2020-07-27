@@ -1,13 +1,6 @@
 # Project Name
 
-> Project description
-
-## Related Projects
-
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
+A business review aggregator web app. Users have the ability to reserve a table at restaurants, browse pictures of the business, and leave a review. 
 
 ## Table of Contents
 
